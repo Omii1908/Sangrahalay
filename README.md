@@ -1,2 +1,0 @@
-# Sangrahalay
-Library Management System
